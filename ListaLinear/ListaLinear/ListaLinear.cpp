@@ -111,10 +111,11 @@ void buscarElemento()
 
 	for (int n = 0; n < nElementos; n++) {
 		if (busca == lista[n]) {
-			cout << "O valor " << busca << " foi encontrado na posição: " << n << endl;
+			cout << "O valor " << busca << " foi encontrado na posicao: " << n << endl;
 			pos = n;
 		}
-		else (pos == -1) {
-		cout << "O valor " << busca << " não foi encontrado na lista \n" << endl;
+		if (pos == -1) {
+			cout << "O valor " << busca << " nao foi encontrado na lista \n" << endl;
 		}
+	}
 }
