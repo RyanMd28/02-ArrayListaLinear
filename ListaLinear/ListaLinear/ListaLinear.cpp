@@ -101,6 +101,7 @@ void inserirElemento()
 
 }
 
+// deve ser implementada como resposta ao exercicio
 void buscarElemento()
 {
 	int pos = -1;
@@ -118,4 +119,5 @@ void buscarElemento()
 			cout << "O valor " << busca << " nao foi encontrado na lista \n" << endl;
 		}
 	}
-}
+
+	}
