@@ -1,7 +1,6 @@
 # Lista Linear
 
-Nome do aluno: Ryan Miranda Domingos
-Turma de Sistemas para Internet 2º Ciclo 2022
+Aluno: Ryan Miranda Domingos
 Email institucional: ryan.domingos@etec.sp.gov.br
 
 Faça um fork deste repositorio e implemente a função buscarElemento
